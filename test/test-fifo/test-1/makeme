@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+#Script to build this test.  You can make use of the common script ../util/maketest
+

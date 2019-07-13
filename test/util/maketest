@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Script to build a single test.
+#TODO Edit this script to make a unit test 

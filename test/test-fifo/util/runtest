@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+../../../bin/fifo.exe setup.txt arrivals.txt correct-output.txt

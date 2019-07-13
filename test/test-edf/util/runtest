@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+../../../bin/edf.exe setup.txt arrivals.txt
+

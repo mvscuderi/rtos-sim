@@ -1,0 +1,184 @@
+Tests started on:
+Sat Jul 13 12:38:08 EDT 2019
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-1
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-1
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-10
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-10
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-2
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-2
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-3
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-3
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-4
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-4
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-5
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-5
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-6
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-6
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-7
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-7
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-8
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-8
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-9
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-edf/test-9
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-1
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-1
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-10
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-10
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-2
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-2
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-3
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-3
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-4
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-4
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-5
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-5
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-6
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-6
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-7
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-7
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-8
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-8
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-9
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-fifo/test-9
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-1
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-1
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-10
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-10
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-2
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-2
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-3
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-3
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-4
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-4
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-5
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-5
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-6
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-6
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-7
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-7
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-8
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-8
+-----------------------------------------------------
+Test result for:
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-9
+-----------------------------------------------------
+Error comparison result for: 
+/homes/mscuderi/ENEE459V/Project2/test/test-rms/test-9
+Tests completed on:
+Sat Jul 13 12:38:14 EDT 2019

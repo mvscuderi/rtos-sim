@@ -1,0 +1,1 @@
+Three tasks with different periods. High priority tasks should interrupt low priority tasks. In other words, the task that has the lowest priority arrives first, then it should be interrupted by the task that has the second lowest priority, which will be interrupted again by the task that has the highest priority. Set the deadline to be the arrival time plus the period.

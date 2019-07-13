@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+../../../bin/rms.exe setup.txt arrivals.txt
