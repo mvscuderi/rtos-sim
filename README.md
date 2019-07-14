@@ -18,14 +18,14 @@ There are three folders in the repository:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 All sources files are here.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-RMS :: rms.cpp  
+RMS &nbsp;&nbsp;&nbsp;:: &nbsp;&nbsp;&nbsp;rms.cpp  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-EDF :: edf.cpp  
+EDF &nbsp;&nbsp;&nbsp;&nbsp;:: &nbsp;&nbsp;&nbsp;edf.cpp  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-FIFO :: fifo.cpp  
+FIFO &nbsp;&nbsp;&nbsp;:: &nbsp;&nbsp;&nbsp;fifo.cpp  
 - test  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Test suite for the project. Test subdirectories in DICE Framework for easy unit testing.  
+Test subdirectories in DICE Framework for easy unit testing.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Running the Simulator
@@ -59,10 +59,10 @@ of the task < task_id >.
 For example, "setup "a system with 2 tasks and scheduler overhead of 1 unit
 will look like:    
 
-2
-1 100
-2 50 
-1
+    2  
+    1 100  
+    2 50   
+    1  
 
 
 <b>II- Arrivals</b>  
@@ -83,11 +83,12 @@ where:
 <b>< deadline ></b> is non-zero positive integer representing the time by which this
 event should complete execution.
 
-For example, using the setup.txt example shown above, arrivals.txt can look like:
-3
-0 1 20 100
-1 2 10 50
-60 2 10 100
+For example, using the setup.txt example shown above, arrivals.txt can look like:  
+
+    3  
+    0 1 20 100  
+    1 2 10 50  
+    60 2 10 100  
 
 III- Output 
 Standard output contains the simulation trace for the system defined in
