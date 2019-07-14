@@ -1,13 +1,10 @@
 # Discrete Event Simulator For RTOS Scheduler
-  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 ## Overview
 This program simulates real-time operating system scheduling using three different scheduling algorithms:   
 - Rate-Monotic [RMS]
 - Earliest Deadline First [EDF]
 - First In First Out [FIFO]
-  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Repository Setup
